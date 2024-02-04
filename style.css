@@ -158,7 +158,8 @@ section{
     max-width: 530px;
     height: auto;
     width: 100%;
-    border-radius: 5px;
+    background-color: purple;
+    border-radius: 77% 23% 53% 47% / 74% 49% 51% 26% ;
 }
 .about-text h2{
     font-size: var(--h2-font);
@@ -212,6 +213,7 @@ section{
     padding: 53px 45px;
     border-radius: 8px;
     transition: all .45s ease;
+    border-radius: 47% 53% 18% 82% / 42% 46% 54% 58% ;
 }
 .h-icons{
     font-size: 32px;
